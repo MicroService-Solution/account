@@ -1,0 +1,1 @@
+{"messages":"trace[Consul.php:189] Consul is fail! (uri=\/v1\/agent\/service\/register status=Request timeout!(host=192.168.99.177, port=8500 timeout=3) body=).","context":[],"level":400,"level_name":"error","channel":"swoft","datetime":"2020-11-03 16:54:53","event":"start","tid":1,"cid":1,"traceid":"","spanid":"","parentid":""}
